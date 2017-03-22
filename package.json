@@ -1,0 +1,25 @@
+{
+  "name": "rss-to-json-extends",
+  "version": "0.0.1",
+  "description": "This lib is an extended version of rss-to-json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AhyoungRyu",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0",
+    "util": "^0.10.3",
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhyoungRyu/rss-to-json-extends.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AhyoungRyu/rss-to-json-extends/issues"
+  },
+  "homepage": "https://github.com/AhyoungRyu/rss-to-json-extends#readme"
+}
